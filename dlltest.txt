@@ -1,0 +1,7 @@
+Symbol: A2, Cost: 29.6, No of Shares: 15
+Symbol: A3, Cost: 12.56, No of Shares: 50
+Symbol: A1, Cost: 34.67, No of Shares: 5
+Symbol: A6, Cost: 77.13, No of Shares: 35
+Symbol: A4, Cost: 87.12, No of Shares: 25
+Symbol: A5, Cost: 110, No of Shares: 54
+
